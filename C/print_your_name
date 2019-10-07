@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{ 
+char a[100];
+printf("enter your name");
+gets (a);
+printf("your name is: : ");
+puts (a);
+return 0;
+}
+
+
