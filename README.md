@@ -20,7 +20,7 @@
 
 <h5> Get a great descont for your professional website using Digital Ocean </h5>
 
-[Referal Link](https://m.do.co/c/27808e1e344c)
+[Referral Link](https://m.do.co/c/27808e1e344c)
 
 ![Image Hacktoberfest](digitalOceanHacktoberfest2019.png) ![image Sistemas Embarcados](seEmbarcados.png)
 
