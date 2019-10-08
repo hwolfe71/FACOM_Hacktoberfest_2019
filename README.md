@@ -1,4 +1,5 @@
-# <center>FACOM_Hacktoberfest_2019  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)</center>
+[![star this repo](http://githubbadges.com/star.svg?user=adalbertobrant&repo=FACOM_Hacktoberfest_2019&style=default)](https://github.com/adalbertobrant/FACOM_Hacktoberfest_2019)
+[![fork this repo](http://githubbadges.com/fork.svg?user=adalbertobrant&repo=FACOM_Hacktoberfest_2019&style=default)](https://github.com/adalbertobrant/FACOM_Hacktoberfest_2019/fork)# <center>FACOM_Hacktoberfest_2019  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)</center>
 
 
 <h4> 1- Create a directory with your favorite language</h4>
