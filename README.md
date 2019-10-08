@@ -1,4 +1,7 @@
 # <center>FACOM_Hacktoberfest_2019  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)</center>
+# Sponsors for this repository
+
+[Digital Ocean](https://hacktoberfest.digitalocean.com/) && [Sistemas Embarcados](https://www.sistemasembarcados.org)
 
 ![Image Hacktoberfest](digitalOceanHacktoberfest2019.png) ![image Sistemas Embarcados](seEmbarcados.png)
 
