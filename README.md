@@ -1,9 +1,5 @@
 # <center>FACOM_Hacktoberfest_2019  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)</center>
-# Sponsors for this repository
 
-[Digital Ocean](https://hacktoberfest.digitalocean.com/) && [Sistemas Embarcados](https://www.sistemasembarcados.org)
-
-![Image Hacktoberfest](digitalOceanHacktoberfest2019.png) ![image Sistemas Embarcados](seEmbarcados.png)
 
 <h4> 1- Create a directory with your favorite language</h4>
 
@@ -16,5 +12,15 @@
  <h4>5- Gimme some star :) </h4>
 
 # Happy Hacktoberfest 2019.
+
+
+<h3>** Sponsors for this repository**</h3>
+
+[Digital Ocean](https://hacktoberfest.digitalocean.com/) && [Sistemas Embarcados](https://www.sistemasembarcados.org)
+
+<h5> Get a great descont for your professional website using Digital Ocean </h5>
+[Referal Link Digital Ocean](https://m.do.co/c/27808e1e344c)
+
+![Image Hacktoberfest](digitalOceanHacktoberfest2019.png) ![image Sistemas Embarcados](seEmbarcados.png)
 
 
