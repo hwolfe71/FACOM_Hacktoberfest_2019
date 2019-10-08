@@ -1,6 +1,6 @@
 # <center>FACOM_Hacktoberfest_2019  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)</center>
 
-![Image Hacktoberfest](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg) ![Sistemas embarcados](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiFzejosozlAhXJLLkGHY_kAUkQjRx6BAgBEAQ&url=https%3A%2F%2Ftwitter.com%2Fsembarcados&psig=AOvVaw0qTPaWZ6sBaAwp7d2a9y22&ust=1570614941573376)
+![Image Hacktoberfest](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg) ![Sistemas embarcados](http://www.sistemasembarcados.org/wp-content/uploads/2015/11/sistemasembarcados_sistemas-embarcados-retangulo.png)
 
 <h4> 1- Create a directory with your favorite language</h4>
 
