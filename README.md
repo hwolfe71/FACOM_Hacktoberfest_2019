@@ -21,7 +21,7 @@
 
 [Digital Ocean](https://hacktoberfest.digitalocean.com/) && [Sistemas Embarcados](https://www.sistemasembarcados.org)
 
-<h5> Get a great descont for your professional website using Digital Ocean </h5>
+<h5> Get a great discount for your professional website using Digital Ocean </h5>
 
 [Referral Link](https://m.do.co/c/27808e1e344c)
 
